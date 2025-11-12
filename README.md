@@ -1,5 +1,4 @@
-I am depressed, and it feels like I am drowning. 
-If you have similar problems, I would be happy to share my experience.
+feel better
 
 <!---
 lzaya/lzaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
